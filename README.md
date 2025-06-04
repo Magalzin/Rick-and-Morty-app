@@ -37,9 +37,7 @@ Responsividade com LayoutBuilder e MediaQuery
 
 ## ▶️ Como rodar
 ```bash
-Copiar
-Editar
 flutter pub get
 flutter run
-Certifique-se de ter um emulador aberto ou dispositivo conectado.
 ```
+Certifique-se de ter um emulador aberto ou dispositivo conectado.
