@@ -29,9 +29,9 @@ As imagens dos personagens são carregadas diretamente da URL fornecida pela API
 ## 💡 Tecnologias
 Flutter
 
-Consumo de API com http ou Dio
+Consumo de API com http
 
-Gerenciamento de estado com GetX, Cubit ou Provider (dependendo da implementação)
+Gerenciamento de estado Cubit ou Provider
 
 Responsividade com LayoutBuilder e MediaQuery
 
