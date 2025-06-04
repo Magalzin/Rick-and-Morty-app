@@ -36,9 +36,10 @@ Gerenciamento de estado com GetX, Cubit ou Provider (dependendo da implementaç�
 Responsividade com LayoutBuilder e MediaQuery
 
 ## ▶️ Como rodar
-bash
+```bash
 Copiar
 Editar
 flutter pub get
 flutter run
 Certifique-se de ter um emulador aberto ou dispositivo conectado.
+```
