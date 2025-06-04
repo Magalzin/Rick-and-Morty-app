@@ -31,7 +31,7 @@ Flutter
 
 Consumo de API com http
 
-Gerenciamento de estado Cubit ou Provider
+Gerenciamento de estado Cubit
 
 Responsividade com LayoutBuilder e MediaQuery
 
